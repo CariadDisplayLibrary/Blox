@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Blox.h
-Description: Blox font for DisplayCore
+Description: Blox
 
 
 
