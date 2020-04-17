@@ -1,2 +1,2 @@
-Blox.cpp libraries/DisplayCore/Blox
-Blox.h libraries/DisplayCore/Blox
+src libraries/DisplayCore/Blox
+library.properties libraries/DisplayCore/Blox
