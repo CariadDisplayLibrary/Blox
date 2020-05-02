@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Blox 
 
-![Blox](https://raw.githubusercontent.com/DisplayCore/Blox/master/Preview/Blox.png)
+![Blox](https://raw.githubusercontent.com/Cariad/Blox/master/Preview/Blox.png)
 
